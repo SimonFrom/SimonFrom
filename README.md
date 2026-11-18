@@ -17,6 +17,7 @@ I build full-stack software with **TypeScript, React, React Native, C#, Blazor**
 
 - Studying Computer Science at UCL in Odense
 - Building small tools for my Linux desktop
+- Diving into learning lua
 
 <h3 align="left">Languages and Tools:</h3>
 <p>

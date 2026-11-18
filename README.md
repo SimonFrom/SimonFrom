@@ -25,7 +25,7 @@ I build full-stack software with **TypeScript, React, React Native, C#, Blazor**
 <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,tailwind,bootstrap" alt="TypeScript, JavaScript, React, Next.js, HTML, CSS, Tailwind, Bootstrap" />
 
 **Backend & data**<br>
-<img src="https://skillicons.dev/icons?i=nodejs,cs,dotnet,python,fastapi,supabase,matlab" alt="Node.js, C#, .NET, Python, FastAPI, Supabase, MATLAB" />
+<img src="https://skillicons.dev/icons?i=nodejs,cs,dotnet" alt="Node.js, C#, .NET" /><img src="assets/blazor.svg" alt="Blazor" /><img src="https://skillicons.dev/icons?i=python,fastapi,supabase,matlab" alt="Python, FastAPI, Supabase, MATLAB" />
 
 **Linux & tools**<br>
 <img src="https://skillicons.dev/icons?i=linux,arch,bash,lua,neovim,qt,git,docker,postman,ps" alt="Linux, Arch, Bash, Lua, Neovim, Qt, Git, Docker, Postman, Photoshop" />

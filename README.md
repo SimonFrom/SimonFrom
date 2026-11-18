@@ -9,10 +9,9 @@ I build full-stack apps with **TypeScript, React and React Native**, do data and
 | --- | --- |
 | [**betterworkspaces**](https://github.com/SimonFrom/betterworkspaces) | Omarchy workspace widget with app icons and a settings menu (QML) |
 | [**Eventbilletten-ML**](https://github.com/SimonFrom/Eventbilletten-ML) · [**TicketForecasting**](https://github.com/SimonFrom/TicketForecasting) | Ticket-sales forecasting and buyer modelling with machine learning (Python, Jupyter) |
-| [**EventbillettenApp**](https://github.com/SimonFrom/EventbillettenApp) | Event ticket app (TypeScript, React Native) |
 | [**strikke-app**](https://github.com/SimonFrom/strikke-app) | Knitting app built with Expo (TypeScript, React Native) |
 | [**cykel-service-v0**](https://github.com/SimonFrom/cykel-service-v0) | Service management for small bike workshops: customers, bikes and repair jobs (Expo, Supabase) |
-| [**.dotfiles**](https://github.com/SimonFrom/.dotfiles) | My Linux desktop configuration |
+| [**nvim config**](https://github.com/SimonFrom/nvim-config) | My neovim config |
 
 ### ⚡ Currently
 

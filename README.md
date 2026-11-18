@@ -21,11 +21,14 @@ I build full-stack software with **TypeScript, React, React Native, C#, Blazor**
 
 ### 🛠️ Languages and Tools
 
-**Frontend & mobile**<br>
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,tailwind,bootstrap" alt="TypeScript, JavaScript, React, Next.js, HTML, CSS, Tailwind, Bootstrap" />
+**Web & mobile**<br>
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,html,css,tailwind,bootstrap,supabase" alt="TypeScript, JavaScript, React, Next.js, Node.js, HTML, CSS, Tailwind, Bootstrap, Supabase" />
 
-**Backend & data**<br>
-<img src="https://skillicons.dev/icons?i=nodejs,cs,dotnet" alt="Node.js, C#, .NET" /><img src="assets/blazor.svg" alt="Blazor" /><img src="https://skillicons.dev/icons?i=python,fastapi,supabase,matlab" alt="Python, FastAPI, Supabase, MATLAB" />
+**.NET**<br>
+<img src="https://skillicons.dev/icons?i=cs,dotnet" alt="C#, .NET" /><img src="assets/blazor.svg" alt="Blazor" />
+
+**Python & data**<br>
+<img src="https://skillicons.dev/icons?i=python,fastapi,matlab" alt="Python, FastAPI, MATLAB" />
 
 **Linux & tools**<br>
 <img src="https://skillicons.dev/icons?i=linux,arch,bash,lua,neovim,qt,git,docker,postman,ps" alt="Linux, Arch, Bash, Lua, Neovim, Qt, Git, Docker, Postman, Photoshop" />

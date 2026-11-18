@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Simon</h1>
 <h3 align="center">Computer Science student at UCL, Odense 🇩🇰</h3>
 
-I build full-stack apps with **TypeScript, React and React Native**, do data and machine-learning work in **Python and Jupyter**, and spend too much time tuning my **Linux** setup (CachyOS, Hyprland/Omarchy, Neovim, fish).
+I build full-stack software with **TypeScript, React, React Native, C#, Blazor** and spend too much time tuning my **Linux** setup (CachyOS, Hyprland/Omarchy, Neovim, fish).
 
 ### 🔭 Things I've made
 
@@ -16,7 +16,6 @@ I build full-stack apps with **TypeScript, React and React Native**, do data and
 ### ⚡ Currently
 
 - Studying Computer Science at UCL in Odense
-- Writing my own extensions for Claude Code
 - Building small tools for my Linux desktop
 
 <h3 align="left">Languages and Tools:</h3>
